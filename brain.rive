@@ -1,0 +1,46 @@
+// Chatbot's brain
+! version = 2.0
+
++ (hi|hello|hey)
+- Welcome to future generali. may i know what do you want to clarify?
+
++ *type of insurance*protect*home*contents
+- Fire insurance covers the structure of your home and along with any permanent fixtures and fittings like kitchen units and bathrooms. It covers the cost of repairing or re-building your home if it's damaged by flood, fire or any of the other risks detailed in the policy. Future Generali’s Home insurance policy covers both, the structure of your home against Fire and allied perils as well as the contents.
+
++ *home insurance policy
+- Home insurance is a Householders' package policy for your House (owned building) and its contents. It is an umbrella policy that offers covers that are suitable for a household. for example Fire & Allied perils; Burglary and housebreaking, Breakdown of electrical appliances etc
+
++ *only (insure|ensure)*house structure under*home insurance
+- No, only building cannot be covered under Home insurance Policy. Cover for Building can be given only along with contents.
+
++ *only (insure|ensure)*home contents under*home insurance *tenant
+- Yes, if the house is for rent, then only contents of the house can be covered.
+
++ i love you
+- Sorry I am already committed to my girlfriend
+
++ *various (protections|protection|coverage) available*home insurance
+- Home insurance is a comprehensive Package Policy which provides protection to home owner, property and its contents against loss or damage by sudden, unexpected event or accidents. The Policy covers Fire Insurance of the building and home contents, Burglary / Housebreaking, All Risk Insurance for jewellery, ornaments or high value items, portable equipments such as laptops, Electrical and Mechanical failures of domestic appliances, Protection of Electronic Equipment Personal Accident for your family, Protection against liabilities like tenants legal liability, domestic workmens compensation and public liability, Enhanced protection to include coverage for Baggage, Plate Glass, Pedal Cycle, ATM Cash Withdrawal, Misuse of Credit Card, Veterinary Costs.
+
++ *compulsory*all the covers
+- No, only fire insurance for building and contents and burglary and house breaking covers are mandatory.
+
++ *pay additional premium*cover earthquake terrorism
+- Earthquake and Terrorism are add on covers and can be opted as an extension to the Home insurance policy by paying an additional premium
+
++ *jewellery ornaments*art works*covered*policy
+- Unless prior consent has been given by the Insurer, policy does not cover items like jewellery ornaments, art works, scripts, documentary information, computer system information, shares & stocks and cash. These can be covered on specific request and subject to valuation.
+
++ *covered*burglary housebreaking*
+- The policy provides protection against loss or damage to insured property due to burglary and housebreaking
+
++ *first loss basis
+- The term “first loss” refers to a form of partial insurance in which a property is insured for an amount much less than the full value of the property. This provision is only given in burglary insurance, where there is very little possibility that all items within the property would be stolen at any one given time. For e.g., if there is burglary in a large retail store, everything in the store would not be taken but only up to a certain amount would be lost, and this is what would be covered in the first loss insurance policy. The amount is calculated based on what is believed would be the biggest loss possible at a single instance of burglary.
+
++ *under insurance*average clause
+- In simple terms, Under Insurance arises when you insure something for less than its value. In the event of a loss, you shall be at risk of being penalized in the amount you are able to recover. In these circumstances, the insurer may choose to "apply average" to the claim under an "average clause". This means that where the sum insured is inadequate, the insurer can reduce its liability for a claim by applying a proportionate approach
+
++ *
+-Sorry could you tell me again
+-Sorry I couldn't relate it to home insurance
+-Sorry I didn't get that
