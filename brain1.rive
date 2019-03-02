@@ -1,0 +1,64 @@
+// Chatbot's brain
+! version = 2.0
+
++ (hi|hello|hey|hai)
+- Welcome to future generali. May i know what do you want to clarify about health insurance?
+
++ *(hospi|hospital) cash policy
+- In event of hospitalisation even if you have a standard Mediclaim policy, you may have to make some “out of pocket” expenditure like food, conveyance etc. Hospi Cash will pay a fixed benefit amount for each day of hospitalisation to take care of such incidental expenses and thus reduce out of pocket expenditure.
+
++ *decide*cover amount
+- You can choose from 3 plan types. they are vital, superior, premiere. for Vital you can insure from 3 to 10 lakhs in rupees. for Superior you can insure from 15 to 25 lakhs. for Premiere you can insure from 50 lakhs to 1 Crore.
+
++ *entry age
+- The age eligibility of the insured for taking the policy is the Entry age. Age will mean completed age as on last birthday.
+
++ *entry age limits*
+- The minimum age required for entry is 1 day. There is no limit of Maximum age for entry. Children will be covered as dependents up to 25 years of age.
+
++ *exit age*
+- No, there is no exit age in this policy.
+
++ (whom|who)*keep*nominee
+- A nominee can be spouse, children or parents.
+
++ *family definition
+- for Vital Plan, Self, spouse, dependent children and dependent parents.Children will be covered as dependents up to 25 years of age. and for Superior and Premiere Plan, Self, spouse, dependant or non-dependent children, dependent or non-dependent parents, Dependent Siblings, daughter in law, son in law, parents in law, grandparents and grandchildren.
+
++ *cover senior citizens
+- Yes ,Senior citizens can apply for the cover as there is no limit on entry age.
+
++ *tax benefit
+- Yes. Premium paid by any mode other than Cash or DD under the Policy shall be eligible for income tax benefit under Sec 80 D of the Income Tax Act and any amendments thereon.
+
++ *(inpatient|in patient)*(outpatient|out patient) treatment
+- When an insured is hospitalized and stays in hospital for more than 24 hours solely for receiving treatment it is termed as inpatient treatment. Out-patient treatment is when insured visits a clinic/hospital or a consultation room for diagnosis and treatment based on the advice of medical practitioner. In out-patient hospitalizationpatient is not admitted under a day care or as an in-patient.
+
++ *day care procedure
+- Day care Procedure means the course of medical treatment or a surgical procedure listed in the Policy wordings which requires less than 24 hours admission. This excludes all procedures or treatment taken in out- patient departments.
+
++ *medicine (covers|cover|covered) *
+- Hospitalization under Ayurveda, Unani, Siddha, or Homeopathy are covered provided that the treatment has been undergone in a government hospital or in any institute recognized by government or accrediated by Quality Council of India or National Accreditation Board on Health for that Alternative treatment.
+
++ *donor (expenses|expense)
+- Future Generali under this policy will pay the Reasonable and Customary Charges incurred for an organ donor’s treatment for the harvesting of the organ donated provided that The organ donor is any person whose organ has been made available in accordance and in compliance with the Transplantation of Human Organs Act, 1994 and the organ donated is for the use of the Insured Person. We will not pay the donor’s screening expenses or pre and post hospitalisation expenses or for any other medical treatment for the donor consequent on the harvesting. We have accepted claim under Hospitalisation medical expenses for the Insured Person and the Insured Person has been Medically Advised to undergo an organ transplant. Costs directly or indirectly associated with the acquisition of the donor’s organ will not be covered.
+
++ *call (centre|center)
+- Call Centre will assist you with emergencies, your eligibility and status, documentation support and general information on the health policy. Call center will not impart any medical advice on the telephone.
+
++ *contact*claim
+- You may call on our 24 hours call center on 1800 103 8889 or Fax on 1800 103 9998. or mail us on fgh@futuregenerali.in
+
++ *(exclusions|not covered)*
+- The treatment of obesity (including morbid obesity) and other weight control programs, services and supplies. External Congenital Anomaly and related Illness or defect. Vitamins, tonics, nutritional supplements unless forming part of the treatment for Injury or Illness as certified by the attending Medical Practitioner. Genetic disorders and stem cell implantation or Surgery or storage. Treatment for any mental illness or psychiatric illness. Expenses incurred towards treatment of Illness or Injury arising out of alcohol use or misuse or abuse of alcohol, narcotic substance or drugs (whether prescribed or not). Any treatment received in convalescent home, rehabilitation centre, convalescent hospital, health hydro, nature care clinic or similar establishments. Non-prescribed drugs and medical supplies, hormone replacement therapy, sex change or treatment which results from or is in any way related to sex change. Any treatment required arising from Insured Person’s participation in any hazardous activity including but not limited to scuba diving, motor racing, parachuting, hang gliding, rock or mountain climbing unless specifically agreed by Us.
+
++ *time limit*notify*claim
+- In case of Emergency hospitalization You need to notify us at the earliest and not later than 48 hours from the time of hospitalization or prior to discharge whichever is earlier. In case of planned admission you need to notify atleat 48 hours in advance prior to admission in the hospital. 
+
++ where*submit claim documents
+- You can submit your claim documents at our nearest branch office or you may even send documents at the following address. claims Department, Future Generali Health , Future Generali India Insurance Co. Ltd. , Office No. 3, 3rd Floor, “A” Building , G - O – Square, S. No. 249 & 250, Aundh Hinjewadi Link Road, Wakad, Pune - 411 057. Toll Free Number: 1800 103 8889. Toll Free Fax: 1800 103 9998. Email: fgh@futuregenerali.in
+
+
+
+
+
